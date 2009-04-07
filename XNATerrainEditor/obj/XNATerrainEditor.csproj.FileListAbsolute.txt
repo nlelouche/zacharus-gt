@@ -1,0 +1,188 @@
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.CustomSize.resources
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.HeightmapSettings.resources
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.HeightTools.resources
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.PaintTools.resources
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.csproj.GenerateResource.Cache
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\XNATerrainEditor.exe
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\XNATerrainEditor.pdb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.exe
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.pdb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Fonts\tahoma.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Models\skybox.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\null.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\lensflare\lens01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\lensflare\lens02.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\lensflare\lens03.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\lensflare\lens04.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Shaders\sun.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Shaders\postProcessing.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Icons\groundCursor.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Icons\light_icon.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Shaders\color.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Shaders\heightmap_multilayer.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\default.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\detail01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\detail02.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\dirt01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\grass01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\rock01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\snow01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Fonts\tahoma.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Models\skybox.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\null.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_bk.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_dn.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_ft.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_lt.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_rt.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_up.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_bk.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_dn.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_ft.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_lt.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_rt.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_up.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Icons\groundCursor.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Icons\light_icon.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\default.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\detail01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\detail02.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\dirt01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\grass01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\rock01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\snow01.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens02.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens03.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens04.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Shaders\sun.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Shaders\postProcessing.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Shaders\color.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Shaders\heightmap_multilayer.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\Content\Textures\null%0.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\XNATerrainEditor.exe
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Release\XNATerrainEditor.pdb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.obj.x86.Release.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.CustomSize.resources
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.HeightmapSettings.resources
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.HeightTools.resources
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.PaintTools.resources
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.csproj.GenerateResource.Cache
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.exe
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.pdb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_bk.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_dn.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_ft.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_lt.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_rt.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_up.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_bk.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_dn.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_ft.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_lt.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_rt.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_up.xnb
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\bin\x86\Debug\Content\Textures\null%0.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Fonts\tahoma.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Models\skybox.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\null.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_bk.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_dn.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_ft.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_lt.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_rt.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\clearblue_up.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_bk.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_dn.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_ft.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_lt.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_rt.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Skybox\marsdense_up.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\LensFlare\lens01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Icons\groundCursor.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Icons\light_icon.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\default.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\detail01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\detail02.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\dirt01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\grass01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\rock01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Terrain\snow01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\LensFlare\lens02.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\LensFlare\lens03.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\LensFlare\lens04.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Water\water.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Water\water_bump.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Shaders\sun.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Shaders\postProcessing.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Shaders\color.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Shaders\heightmap_multilayer.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\null%0.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\XNATerrainEditor.exe
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\XNATerrainEditor.pdb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.CustomSize.resources
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.HeightmapSettings.resources
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.HeightTools.resources
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.PaintTools.resources
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.csproj.GenerateResource.Cache
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.exe
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Debug\XNATerrainEditor.pdb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Shaders\opt_heightmap.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Debug\Content\Textures\Icons\height_cursor_01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Fonts\tahoma.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Models\skybox.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\null.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_bk.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_dn.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_ft.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_lt.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_rt.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_up.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_bk.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_dn.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_ft.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_lt.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_rt.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_up.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Icons\groundCursor.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Icons\light_icon.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\default.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\detail01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\detail02.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\dirt01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\grass01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\rock01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\snow01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens02.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens03.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens04.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Water\water.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Water\water_bump.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Icons\height_cursor_01.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\sun.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\postProcessing.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\color.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\heightmap_multilayer.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\opt_heightmap.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\null%0.xnb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\XNATerrainEditor.exe
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\XNATerrainEditor.pdb
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.obj.x86.Release.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.CustomSize.resources
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.HeightmapSettings.resources
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.HeightTools.resources
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.PaintTools.resources
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.csproj.GenerateResource.Cache
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.exe
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\obj\x86\Release\XNATerrainEditor.pdb
