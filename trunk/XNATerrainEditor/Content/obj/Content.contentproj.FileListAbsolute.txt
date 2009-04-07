@@ -1,0 +1,4 @@
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\PsyCad\C# Projects\XNATerrainEditor\XNATerrainEditor\Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\Content\obj\x86\Release\ResolveAssemblyReference.cache

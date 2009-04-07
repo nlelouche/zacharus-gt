@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\tahoma.spritefont</Source>
+      <Name>Fonts\tahoma</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Fonts\tahoma.xnb</Output>
+      <Time>2008-02-18T21:52:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox.fbx</Source>
+      <Name>Models\skybox</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">False</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Models\skybox.xnb</Output>
+      <Time>2008-02-17T12:36:10-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\skybox%0.xml</Key>
+        <Value>2008-04-16T01:07:27.248496-05:00</Value>
+      </Dependency>
+      <Request>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\null%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\null.tga</Source>
+      <Name>Textures\null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\null.xnb</Output>
+      <Time>2008-02-17T12:36:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\clearblue_bk.jpg</Source>
+      <Name>Textures\Skybox\clearblue_bk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_bk.xnb</Output>
+      <Time>2008-02-18T22:11:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\clearblue_dn.jpg</Source>
+      <Name>Textures\Skybox\clearblue_dn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_dn.xnb</Output>
+      <Time>2008-02-18T22:11:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\clearblue_ft.jpg</Source>
+      <Name>Textures\Skybox\clearblue_ft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_ft.xnb</Output>
+      <Time>2008-02-18T22:11:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\clearblue_lt.jpg</Source>
+      <Name>Textures\Skybox\clearblue_lt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_lt.xnb</Output>
+      <Time>2008-02-18T22:11:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\clearblue_rt.jpg</Source>
+      <Name>Textures\Skybox\clearblue_rt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_rt.xnb</Output>
+      <Time>2008-02-18T22:11:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\clearblue_up.jpg</Source>
+      <Name>Textures\Skybox\clearblue_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\clearblue_up.xnb</Output>
+      <Time>2008-02-18T22:11:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\marsdense_bk.jpg</Source>
+      <Name>Textures\Skybox\marsdense_bk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_bk.xnb</Output>
+      <Time>2008-02-18T22:11:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\marsdense_dn.jpg</Source>
+      <Name>Textures\Skybox\marsdense_dn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_dn.xnb</Output>
+      <Time>2008-02-18T22:11:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\marsdense_ft.jpg</Source>
+      <Name>Textures\Skybox\marsdense_ft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_ft.xnb</Output>
+      <Time>2008-02-18T22:11:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\marsdense_lt.jpg</Source>
+      <Name>Textures\Skybox\marsdense_lt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_lt.xnb</Output>
+      <Time>2008-02-18T22:11:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\marsdense_rt.jpg</Source>
+      <Name>Textures\Skybox\marsdense_rt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_rt.xnb</Output>
+      <Time>2008-02-18T22:11:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\marsdense_up.jpg</Source>
+      <Name>Textures\Skybox\marsdense_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Skybox\marsdense_up.xnb</Output>
+      <Time>2008-02-18T22:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LensFlare\lens01.dds</Source>
+      <Name>Textures\LensFlare\lens01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens01.xnb</Output>
+      <Time>2008-02-18T21:53:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Icons\groundCursor.tga</Source>
+      <Name>Textures\Icons\groundCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Icons\groundCursor.xnb</Output>
+      <Time>2008-02-17T12:39:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Icons\light_icon.tga</Source>
+      <Name>Textures\Icons\light_icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Icons\light_icon.xnb</Output>
+      <Time>2008-02-17T12:39:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\default.dds</Source>
+      <Name>Textures\Terrain\default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\default.xnb</Output>
+      <Time>2008-02-17T14:39:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\detail01.dds</Source>
+      <Name>Textures\Terrain\detail01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\detail01.xnb</Output>
+      <Time>2008-02-17T14:39:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\detail02.dds</Source>
+      <Name>Textures\Terrain\detail02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\detail02.xnb</Output>
+      <Time>2008-02-17T14:39:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\dirt01.dds</Source>
+      <Name>Textures\Terrain\dirt01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\dirt01.xnb</Output>
+      <Time>2008-02-17T14:39:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\grass01.dds</Source>
+      <Name>Textures\Terrain\grass01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\grass01.xnb</Output>
+      <Time>2008-02-17T14:39:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\rock01.dds</Source>
+      <Name>Textures\Terrain\rock01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\rock01.xnb</Output>
+      <Time>2008-02-17T14:39:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\snow01.dds</Source>
+      <Name>Textures\Terrain\snow01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Terrain\snow01.xnb</Output>
+      <Time>2008-02-17T14:39:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LensFlare\lens02.tga</Source>
+      <Name>Textures\LensFlare\lens02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens02.xnb</Output>
+      <Time>2008-02-18T21:53:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LensFlare\lens03.tga</Source>
+      <Name>Textures\LensFlare\lens03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens03.xnb</Output>
+      <Time>2008-02-18T21:53:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LensFlare\lens04.tga</Source>
+      <Name>Textures\LensFlare\lens04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">NoChange</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\LensFlare\lens04.xnb</Output>
+      <Time>2008-02-18T21:53:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Water\water.jpg</Source>
+      <Name>Textures\Water\water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Water\water.xnb</Output>
+      <Time>2006-06-17T08:11:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Water\water_bump.bmp</Source>
+      <Name>Textures\Water\water_bump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Water\water_bump.xnb</Output>
+      <Time>2006-06-17T08:11:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Icons\height_cursor_01.bmp</Source>
+      <Name>Textures\Icons\height_cursor_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\Icons\height_cursor_01.xnb</Output>
+      <Time>2008-04-09T01:02:21.0914912-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\sun.fx</Source>
+      <Name>Shaders\sun</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\sun.xnb</Output>
+      <Time>2008-02-17T12:38:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\postProcessing.fx</Source>
+      <Name>Shaders\postProcessing</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\postProcessing.xnb</Output>
+      <Time>2008-02-17T12:38:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\color.fx</Source>
+      <Name>Shaders\color</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\color.xnb</Output>
+      <Time>2008-02-17T12:40:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\heightmap_multilayer.fx</Source>
+      <Name>Shaders\heightmap_multilayer</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\heightmap_multilayer.xnb</Output>
+      <Time>2008-03-12T20:57:24.3585503-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\opt_heightmap.fx</Source>
+      <Name>Shaders\opt_heightmap</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Shaders\opt_heightmap.xnb</Output>
+      <Time>2008-04-09T13:40:57.56096-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\skybox%0.xml</Output>
+      <Time>2008-02-17T12:36:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\null.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">false</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">NoChange</Data>
+        <Data Key="GenerateMipmaps" Type="bool">false</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\Textures\null%0.xnb</Output>
+      <Time>2008-02-17T12:36:38-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <RootDirectory>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\XNA\Development\XNATerrainEditor_Durg78\XNATerrainEditor\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2007-12-13T10:38:34.5634976-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
